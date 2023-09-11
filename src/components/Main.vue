@@ -14,84 +14,84 @@
         "nom": "Beauty Bursh 1",
         "prix": 15,
         "description": "incididunt ut labore et dolore magna aliqua. Ut enim",
-        "image": "/images/img-1.png"
+        "image": "./images/img-1.png"
     },
     {
         "id": 2,
         "nom": "Beauty Bursh 2",
         "prix": 15,
         "description": "incididunt ut labore et dolore magna aliqua. Ut enim",
-        "image": "/images/img-2.png"
+        "image": "./images/img-2.png"
     },
     {
         "id": 3,
         "nom": "Beauty Bursh 3",
         "prix": 15,
         "description": "incididunt ut labore et dolore magna aliqua. Ut enim",
-        "image": "/images/img-3.png"
+        "image": "./images/img-3.png"
     },
     {
         "id": 4,
         "nom": "Beauty Bursh 4",
         "prix": 15,
         "description": "incididunt ut labore et dolore magna aliqua. Ut enim",
-        "image": "/images/img-4.png"
+        "image": "./images/img-4.png"
     },
     {
         "id": 5,
         "nom": "Beauty Bursh 5",
         "prix": 20,
         "description": "incididunt ut labore et dolore magna aliqua. Ut enim",
-        "image": "/images/img-5.png"
+        "image": "./images/img-5.png"
     },
     {
         "id": 6,
         "nom": "Beauty Bursh 6",
         "prix": 20,
         "description": "incididunt ut labore et dolore magna aliqua. Ut enim",
-        "image": "/images/img-6.png"
+        "image": "./images/img-6.png"
     },
     {
         "id": 7,
         "nom": "Beauty Bursh 7",
         "prix": 20,
         "description": "incididunt ut labore et dolore magna aliqua. Ut enim",
-        "image": "/images/img-7.png"
+        "image": "./images/img-7.png"
     },
     {
         "id": 8,
         "nom": "Beauty Bursh 8",
         "prix": 20,
         "description": "incididunt ut labore et dolore magna aliqua. Ut enim",
-        "image": "/images/img-8.png"
+        "image": "./images/img-8.png"
     },
     {
         "id": 9,
         "nom": "Beauty Bursh 9",
         "prix": 30,
         "description": "incididunt ut labore et dolore magna aliqua. Ut enim",
-        "image": "/images/img-9.png"
+        "image": "./images/img-9.png"
     },
     {
         "id": 10,
         "nom": "Beauty Bursh 10",
         "prix": 30,
         "description": "incididunt ut labore et dolore magna aliqua. Ut enim",
-        "image": "/images/img-10.png"
+        "image": "./images/img-10.png"
     },
     {
         "id": 11,
         "nom": "Beauty Bursh 11",
         "prix": 30,
         "description": "incididunt ut labore et dolore magna aliqua. Ut enim",
-        "image": "/images/img-11.png"
+        "image": "./images/img-11.png"
     },
     {
         "id": 12,
         "nom": "Beauty Bursh 12",
         "prix": 30,
         "description": "incididunt ut labore et dolore magna aliqua. Ut enim",
-        "image": "/images/img-12.png"
+        "image": "./images/img-12.png"
     }
     ]
     const sousTab1 = articlesTab.slice(0,4);
